@@ -1,0 +1,15 @@
+{
+    "require": {
+        "tqdev/php-crud-api": "^2.0"
+    },
+    "config": {
+        "disable-tls": true,
+        "secure-http": false
+    },
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.org"
+        }
+    }
+}
